@@ -1,2 +1,4 @@
-package com.xprod.xproddesktop02;public class Login {
+package com.xprod.xproddesktop02;
+
+public class Login {
 }
